@@ -1,4 +1,5 @@
-pkgname=avrdude
+pkgname=avrdude-svn
+_pkgname=avrdude
 pkgrel=1
 pkgver=20151216.1366
 pkgdesc="AVRDUDE is an utility to download/upload/manipulate the ROM and EEPROM contents of AVR microcontrollers using the in-system programming technique (ISP)."
